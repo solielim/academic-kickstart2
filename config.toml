@@ -67,7 +67,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "solielim@umich.edu"
-  address = "B1205 Beal Avenue, Ann Arbor, MI 48109-2117"
+  address = "1205 Beal Avenue, Ann Arbor, MI 48109-2117"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   # phone = "734 "
   #skype = "echo123"
@@ -270,9 +270,9 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
 [[menu.main]]
   name = "Projects"
@@ -280,9 +280,9 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
