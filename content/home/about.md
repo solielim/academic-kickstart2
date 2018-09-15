@@ -10,31 +10,41 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Human Factors",
+    "Occupational Ergonomics",
+    "Wearable Technology",
+    "Predictive Modeling",
+    "Healthcare Ergonomics",
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D. in Industrial and Operations Engineering"
+  institution = "University of Michigan, Ann Arbor"
+  year = 2019 (Expected)
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Graduate Certificate in Data Science"
+  institution = "Michigan Institute for Data Science, University of Michigan, Ann Arbor"
+  year = 2015
+  
+[[education.courses]]
+  course = "M.S. in Biomedical Engineering"
+  institution = "University of Michigan, Ann Arbor"
+  year = 2015
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "M.S. in Industrial Engineering"
+  institution = "Seoul National University"
+  year = 2011
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sol Lim is a Ph.D. candidate in Industrial and Operations Engineering at the University of Michigan, Ann Arbor. Her research applys principles of human factors and data analytics to improve the safety and accessibility of working/daily environments for diverse populations. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research focuses on the use of wearable sensors to obtain human kinematics to better understand the human movement in relation to work tasks and environment. 
+
+My current research showed a proof of concept that wearable inertial sensors can be effectively used as an ergonomic exposure assessment tool with a software combining predictive modeling for task and intensity classification. 
+
