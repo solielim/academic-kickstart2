@@ -57,21 +57,21 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Sol Lim"
+  role = "Ph.D. Candidate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "University of Michigan, Ann Arbor", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  email = "solielim@umich.edu"
+  address = "B1205 Beal Avenue, Ann Arbor, MI 48109-2117"
+  # office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  # phone = "734 "
+  #skype = "echo123"
+  #telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -225,31 +225,31 @@ enableGitInfo = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "envelope"
-    icon_pack = "fas"
-    link = "mailto:test@example.org"
+ #   icon = "envelope"
+ #   icon_pack = "fas"
+ #   link = "mailto:test@example.org"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "//twitter.com/GeorgeCushen"
+ # [[params.social]]
+ #   icon = "twitter"
+ #   icon_pack = "fab"
+ #   link = "//twitter.com/GeorgeCushen"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.com/citations?user=zFZu-4wAAAAJ&hl=en"
 
   [[params.social]]
-    icon = "github"
-    icon_pack = "fab"
-    link = "//github.com/gcushen"
+ #   icon = "github"
+ #  icon_pack = "fab"
+ # link = "//github.com/gcushen"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
+   icon = "cv"
+   icon_pack = "ai"
+   link = "files/SolLim_CV_updated_Aug_2018.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
