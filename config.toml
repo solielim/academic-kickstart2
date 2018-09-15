@@ -249,7 +249,7 @@ enableGitInfo = false
    [[params.social]]
    icon = "cv"
    icon_pack = "ai"
-   link = "files/SolLim_CV_updated_Aug_2018.pdf"
+   link = "static/img/SolLim_CV_updated_Aug_2018.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
