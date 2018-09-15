@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://solielim.com/"
 
 # Title of your site
 title = "Sol Lim"
@@ -249,7 +249,7 @@ enableGitInfo = false
    [[params.social]]
    icon = "cv"
    icon_pack = "ai"
-   link = "static/img/SolLim_CV_updated_Aug_2018.pdf"
+   link = "static/files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
