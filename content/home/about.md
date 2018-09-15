@@ -21,7 +21,7 @@ weight = 5
 [[education.courses]]
   course = "Ph.D. in Industrial and Operations Engineering"
   institution = "University of Michigan, Ann Arbor"
-  year = 2019 (Expected)
+  year = 2019
 
 [[education.courses]]
   course = "Graduate Certificate in Data Science"
