@@ -48,3 +48,4 @@ My research focuses on the use of wearable sensors to obtain human kinematics to
 
 My current research showed a proof of concept that wearable inertial sensors can be effectively used as an ergonomic exposure assessment tool with a software combining predictive modeling for task and intensity classification. 
 
+
