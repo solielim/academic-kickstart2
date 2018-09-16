@@ -42,7 +42,7 @@ weight = 5
 
 # Biography
 
-Sol Lim is a Ph.D. candidate in Industrial and Operations Engineering at the University of Michigan, Ann Arbor. Her research applys principles of human factors and data analytics to improve the safety and accessibility of working/daily environments for diverse populations. 
+Sol Lim is a Ph.D. candidate in [Industrial and Operations Engineering at the University of Michigan, Ann Arbor](http://ioe.engin.umich.edu/). Her research applys principles of human factors and data analytics to improve the safety and accessibility of working/daily environments for diverse populations. 
 
 
 
