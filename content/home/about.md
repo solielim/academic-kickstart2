@@ -35,7 +35,7 @@ weight = 5
 
 [[education.courses]]
   course = "M.S. in Industrial Engineering"
-  institution = "Seoul National University"
+  institution = "Seoul National University, Seoul, Korea"
   year = 2011
  
 +++
