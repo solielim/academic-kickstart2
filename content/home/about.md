@@ -26,7 +26,7 @@ weight = 5
 [[education.courses]]
   course = "Graduate Certificate in Data Science"
   institution = "Michigan Institute for Data Science, University of Michigan, Ann Arbor"
-  year = 2015
+  year = 2018
   
 [[education.courses]]
   course = "M.S. in Biomedical Engineering"
