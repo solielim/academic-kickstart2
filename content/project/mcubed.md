@@ -9,7 +9,7 @@ date = 2018-09-15T00:00:00
 title = "Dynamic Balance Assessment in Individuals with High BMI"
 
 # Project summary to display on homepage.
-summary = "investigation on quantitative metrics to assess dynamic balance of individuals with high BMI during one leg standing"
+summary = "Investigation on quantitative metrics to assess dynamic balance of individuals with high BMI during one leg standing"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "obs_clearance.png"
