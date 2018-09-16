@@ -42,7 +42,6 @@ weight = 5
 
 # Biography
 
-Sol Lim is a Ph.D. candidate in [Industrial and Operations Engineering at the University of Michigan, Ann Arbor](http://ioe.engin.umich.edu/). Her research applys principles of human factors and data analytics to improve the safety and accessibility of working/daily environments for diverse populations. 
+I'm currently a Ph.D. Candidate in the [Department of Industrial and Operations Engineering](http://ioe.engin.umich.edu/) at the University of Michigan under the advising of [Dr. Clive D'Souza](http://dsouzalab.engin.umich.edu/). 
 
-
-
+I'm interested in improving safety and accessibility of working/daily environments for diverse populations by applying principles of human factors and data analytics. My current research focuses on understanding human movement in relation to population characteristics, task demands, and environmental circumstances and applying that knowledge into predictive modeling algorithms that facilitates the use of wearable sensor data in human factors research.
