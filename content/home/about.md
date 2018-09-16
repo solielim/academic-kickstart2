@@ -21,7 +21,7 @@ weight = 5
 [[education.courses]]
   course = "Ph.D. in Industrial and Operations Engineering"
   institution = "University of Michigan, Ann Arbor"
-  year = "2019, expected"
+  year = "2019 (expected)"
 
 [[education.courses]]
   course = "Graduate Certificate in Data Science"
@@ -44,8 +44,5 @@ weight = 5
 
 Sol Lim is a Ph.D. candidate in Industrial and Operations Engineering at the University of Michigan, Ann Arbor. Her research applys principles of human factors and data analytics to improve the safety and accessibility of working/daily environments for diverse populations. 
 
-My research focuses on the use of wearable sensors to obtain human kinematics to better understand the human movement in relation to work tasks and environment. 
-
-My current research showed a proof of concept that wearable inertial sensors can be effectively used as an ergonomic exposure assessment tool with a software combining predictive modeling for task and intensity classification. 
 
 
