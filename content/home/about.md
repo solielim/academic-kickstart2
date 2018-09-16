@@ -40,7 +40,7 @@ weight = 5
  
 +++
 
-# Biography
+# About Me
 
 I'm currently a Ph.D. Candidate in the [Department of Industrial and Operations Engineering](http://ioe.engin.umich.edu/) at the University of Michigan under the advising of [Dr. Clive D'Souza](http://dsouzalab.engin.umich.edu/). 
 
