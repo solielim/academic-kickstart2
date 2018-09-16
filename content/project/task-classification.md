@@ -18,7 +18,7 @@ image_preview = "carry.jpg"
 tags = ["task-classification"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://dsouzalab.engin.umich.edu/research/inertial-sensing/index.php"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
@@ -31,3 +31,4 @@ math = false
 +++
 
 test
+[External link](http://dsouzalab.engin.umich.edu/research/inertial-sensing/index.php)
