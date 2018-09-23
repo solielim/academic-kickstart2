@@ -2,7 +2,7 @@
 
 +++
 # Date this page was created.
-date = 2018-09-15T00:00:00
+date = 2018-09-23T00:00:00
 
 # Project title.
 title = "Task and Intensity Classification for Ergonomic Exposure Assessment"
