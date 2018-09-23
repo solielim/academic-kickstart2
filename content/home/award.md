@@ -15,7 +15,7 @@ weight = 60
 
 +++
 - 2018 UM Rackham Graduate School Travel Grant Award
-- 2018 1st Place (Inaugural Outstanding Team Grant Proposal) at the NIOSH Funded Research Capacity Building Workshop, University of Cincinnati
+- 2018 1st Place (Inaugural Outstanding Team Grant Proposal) at the NIOSH Funded Research Capacity Building Workshop, University of Cincinnati [Link](https://c4e.engin.umich.edu/sol-lim-receives-best-group-proposal-award-niosh-funded-research-capacity-building-workshop/)
 - 2018 UM Education and Research Center (ERC) Travel Grant Award to attend the NIOSH Funded Research Capacity Building Workshop, University of Cincinnati
 - 2017 1st Place (poster) at the Industrial, Operations, and Financial Engineering session, UM Engineering Graduate Symposium
 - 2017 HFES Student Author Presentation Support Award (SAPSA)
