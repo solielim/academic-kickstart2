@@ -5,7 +5,7 @@
 date = 2018-09-15T00:00:00
 
 # Project title.
-title = "AATask and Intensity Classification for Ergonomic Exposure Assessment"
+title = "Task and Intensity Classification for Ergonomic Exposure Assessment"
 
 # Project summary to display on homepage.
 summary = "Assessment tool that estimates the physical workload of workers exposed to different work conditions using wearable inertial sensor-derived data by Task and Intensity Classification"
