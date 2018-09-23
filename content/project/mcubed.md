@@ -36,3 +36,11 @@ The prevalence of obesity (BMI ≥ 30 kg/m2) is increasing worldwide. Individual
 This project was internally funded through [MCubed2 project](https://mcubed.umich.edu/) from the University of Michigan.
 
 
+Related Publications and Presentations
+
+- Lim, S., Luo, Y., & D’Souza, C. (in preparation). Task Performance and Stepping Adaptation during Obstacle Clearance Task in Individuals with High Body Mass Index.
+- Lim, S., Luo, Y., Ebert, S., Johns, M., Varban, O., & D’Souza, C. (accepted). Preliminary Study of Obstacle Clearance and Compensatory Movements in Individuals with High Body Mass Index. Proceedings of the 62nd Annual Meeting of the Human Factors and Ergonomics Society (HFES), Philadelphia, PA, October 2018. 
+- Luo, Y., Lim, S., Futerman, S., Grider, J., Ebert, S., Jones., M., Varban, O., & D’Souza, C. (2018). Dynamic Balance and Measures of Obstacle Clearance Performance in Individuals with High Body Mass Index. Poster presented at the Education and Research Center (ERC) Regional Research Symposium, University of Illinois at Chicago, Illinois, March 2018.  [Link]()
+- Lim, S., Ebert, S., Malik, L., Luo, Y., Futerman, S., Lin, S., D’Souza, C., Jones, M., & Varban, O. (2017). Novel Methods to Track Changes in Health and Function of Individuals with High Body Mass Index (BMI). Poster presented at the MCubed Symposium 2017, Ann Arbor, MI, November 2017.  [Link]()
+
+
