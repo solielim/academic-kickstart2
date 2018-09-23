@@ -277,8 +277,8 @@ enableGitInfo = false
 #  weight = 3
 
 [[menu.main]]
-  name = "Awards"
-  url = "#awards"
+  name = "Award"
+  url = "#award"
   weight = 3
 
 [[menu.main]]
