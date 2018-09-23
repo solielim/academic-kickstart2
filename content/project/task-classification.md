@@ -34,8 +34,8 @@ Work conditions that require prolonged awkward postures and high force exertions
 [Link to the project website](http://cohse.umich.edu/funding/pprt-program-overview/past-funded-pprt-proposals/lim-and-dsouza/)
 
 Related Publications and Presentations
-- Lim, S., & D’Souza, C. (in preparation). A Systematic Review of Inertial Sensing-Based Ergonomic Exposure Assessment.
 
+- Lim, S., & D’Souza, C. (in preparation). A Systematic Review of Inertial Sensing-Based Ergonomic Exposure Assessment.
 - Lim, S., & D’Souza, C. (under review). Statistical Prediction of Load Carriage Mode and Magnitude from Inertial Sensor Derived Gait Kinematics.
 - Lim, S., & D’Souza, C. (under review). Measuring Effects of Two-handed Side and Anterior Load Carriage on Gait Kinematics using Wearable Inertial Sensors.
 - Lim, S., & D’Souza, C. (accepted). Inertial Sensor-based Measurement of Thoracic-Pelvic Co- ordination Measures Predicts Hand-Load Levels in Two-handed Anterior Carry. Proceedings of the 62nd Annual Meeting of the Human Factors and Ergonomics Society (HFES), Philadelphia, PA, October 2018.
