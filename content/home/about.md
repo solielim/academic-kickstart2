@@ -39,6 +39,10 @@ weight = 5
   institution = "Seoul National University, Seoul, Korea"
   year = 2011
  
+[[education.courses]]
+  course = "B.S. in Clothing and Textiles"
+  institution = "Yonsei University, Seoul, Korea"
+  year = 2009
 +++
 
 # About Me
