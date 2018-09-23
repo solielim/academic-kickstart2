@@ -44,4 +44,7 @@ weight = 5
 
 I'm currently a Ph.D. Candidate in the [Department of Industrial and Operations Engineering](http://ioe.engin.umich.edu/) at the University of Michigan under the advising of [Dr. Clive D'Souza](http://dsouzalab.engin.umich.edu/). 
 
-I'm interested in improving safety and accessibility of working/daily environments for diverse populations by applying principles of human factors and data analytics. My current research focuses on understanding human movement in relation to population characteristics, task demands, and environmental circumstances and applying that knowledge into predictive modeling algorithms that facilitates the use of wearable sensor data in human factors research.
+My research applies principles of human factors and data analytics to improve human health, well-being, and accessibility of working/daily environments for diverse populations. Functional capabilities of human are varying across diverse user populations and affected by different environmental circumstances and demands. Lack of design consideration in human functional capabilities can result in adverse effects. Examples include work-related injuries and diseases in working environment, and limited accessibility, independence, and social involvement in public spaces. My research involves assessing human movement and performance interacting with varying environmental demands by combining wearable sensing technologies and predictive modeling. The understanding on human movement can be used to identify ergonomic problems and provide solutions to minimize the adverse effects. 
+
+
+
