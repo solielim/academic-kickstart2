@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Sol"
+title = "Sol Lim"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -101,8 +101,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 1
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "42.290436"
+  longitude = "-83.712655"
   zoom = 15
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
@@ -267,9 +267,9 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
+#  name = "Publications"
+#  url = "#publications_selected"
+#  weight = 2
 
 [[menu.main]]
 #  name = "Posts"
