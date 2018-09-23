@@ -25,7 +25,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
- image = "headers/bubbles-wide.jpg"
+ image = "carry.png"
 # caption = "My caption :smile:"
 
 +++
@@ -36,7 +36,9 @@ Work conditions that require prolonged awkward postures and high force exertions
 Related Publications and Presentations
 
 - Lim, S., & D’Souza, C. (in preparation). A Systematic Review of Inertial Sensing-Based Ergonomic Exposure Assessment.
+
 - Lim, S., & D’Souza, C. (under review). Statistical Prediction of Load Carriage Mode and Magnitude from Inertial Sensor Derived Gait Kinematics.
+
 - Lim, S., & D’Souza, C. (under review). Measuring Effects of Two-handed Side and Anterior Load Carriage on Gait Kinematics using Wearable Inertial Sensors.
 - Lim, S., & D’Souza, C. (accepted). Inertial Sensor-based Measurement of Thoracic-Pelvic Co- ordination Measures Predicts Hand-Load Levels in Two-handed Anterior Carry. Proceedings of the 62nd Annual Meeting of the Human Factors and Ergonomics Society (HFES), Philadelphia, PA, October 2018.
 Lim, S., & D’Souza, C. (2018). Predicting Hand-load Carrying Strategy and Load Level from Gait Kinematics Obtained from Wearable Inertial Sensor. Poster presented at the Michigan Institute for Computational Discovery and Engineering (MICDE) 2018 Annual Symposium, Ann Arbor, MI, March 2018.
