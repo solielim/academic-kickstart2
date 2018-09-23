@@ -23,7 +23,7 @@ weight = 60
 - 2017 UM Rackham Graduate School Travel Grant Award
 - 2016 People’s Choice Award (poster), Regional Research Symposium, Education and Research Center (ERC)
 - 2016 UM Rackham Graduate School Travel Grant Award 
-- 2015-2016 Pilot Project Research Training Program (PPRT) award from NIOSH  [Link}(http://cohse.umich.edu/funding/pprt-program-overview/past-funded-pprt-proposals/lim-and-dsouza/)
+- 2015-2016 Pilot Project Research Training Program (PPRT) award from NIOSH  [Link](http://cohse.umich.edu/funding/pprt-program-overview/past-funded-pprt-proposals/lim-and-dsouza/)
 - 2015 UM Rackham Graduate School Travel Grant Award
 - 2015 Industrial and Operations Engineering Departmental Fellowship, University of Michigan
 - 2013-2014 Jungsong Foundation Scholarship
