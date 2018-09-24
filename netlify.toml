@@ -6,3 +6,8 @@
   HUGO_VERSION = "0.48"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
+
+# A basic redirects rule
+[[redirects]]
+  from = "http://reverent-euclid-38d2be.netlify.com/*"
+  to = "http://www.solielim.com/:splat 301!"
