@@ -9,5 +9,5 @@
 
 # A basic redirects rule
 [[redirects]]
-  from = "http://reverent-euclid-38d2be.netlify.com/*"
-  to = "http://www.solielim.com/:splat 301!"
+  from = "https://solielim.netlify.com/*"
+  to = "https://www.solielim.com/:splat 301!"
